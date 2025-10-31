@@ -38,7 +38,7 @@ cd ..
 // Install dependencies:
 npm install
 
-Start the React app:
+// Start the React app:
 npm start
 ```
 
