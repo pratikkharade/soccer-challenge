@@ -5,6 +5,10 @@
 /.pnp
 .pnp.js
 
+__pycache__/
+.env
+.DS_Store
+
 # testing
 /coverage
 

@@ -1,0 +1,26 @@
+.cards-container {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.card-wrapper {
+    height: 5rem;
+    border: 1px solid;
+    border-radius: 1rem;
+    padding: 0.5rem;
+    box-sizing: border-box;
+}
+
+.card-actions {
+    display: flex;
+    justify-content: space-around;
+    font-size: 0.8rem;
+}
+
+.card-actions div {
+    cursor: pointer;
+}
