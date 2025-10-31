@@ -41,7 +41,6 @@ npm install
 Start the React app:
 npm start
 ```
-## API Endpoints
 
 ## API Endpoints
 
