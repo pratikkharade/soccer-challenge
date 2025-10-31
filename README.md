@@ -25,7 +25,7 @@ A full-stack web application built using **React**, **FastAPI**, and **MongoDB**
 
 ### Backend Setup (FastAPI)
 ```bash
-cd fast-apis
+cd src/fast-apis
 pip install fastapi uvicorn motor
 uvicorn read:app --reload
 ```
